@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Teachers Seminer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In this project discused how to join a meating.
+You can inspire to seminer.
+You can learn how to handle client.
 
 ### `npm start`
 

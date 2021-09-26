@@ -42,7 +42,7 @@ const Teacher = () => {
                 }
             </div>
             <div className='total-teacher'>
-                <h3>Teacher Added: {totalCost.length}</h3>
+                <h3><i class="fas fa-user"></i> Teacher Added: {totalCost.length}</h3>
                 <h3>Total Cost: {total}</h3>
                 <p className='name'>{name}</p>
                 <button className='add-fav'>Add Now</button>
