@@ -27,8 +27,10 @@ const Teacher = () => {
     // add to teachers name
     let name = [];
     for (const names of totalCost) {
-        name = name + names.name;
+        name = name + ' ' + names.name;
     }
+
+
     return (
         <div className='teacher-container'>
             <div className='teachers'>

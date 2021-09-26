@@ -1,13 +1,13 @@
 # Teachers Seminer
-https://focused-cori-46275d.netlify.app/
+ project live link: (https://focused-cori-46275d.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-## In this project discused how to join a meating 2
-## You can inspire to seminer 2
-## You can learn how to handle client 2
+## In this project discused how to join a meating.
+## You can inspire to seminer.
+## You can learn how to handle client.
 
 ### `npm start`
 
