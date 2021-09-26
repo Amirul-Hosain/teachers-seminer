@@ -1,0 +1,17 @@
+
+.header{
+    background-color: rgb(240, 207, 191);
+    height: 150px;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 50px;
+}
+.header h2{
+    font-size: 40px;
+}
+.header h4{
+    font-size: 25px;
+}
