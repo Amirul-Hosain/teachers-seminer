@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In this project discused how to join a meating.
-You can inspire to seminer.
-You can learn how to handle client.
+## In this project discused how to join a meating 2
+## You can inspire to seminer 2
+## You can learn how to handle client 2
 
 ### `npm start`
 
