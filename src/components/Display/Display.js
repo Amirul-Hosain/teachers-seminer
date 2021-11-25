@@ -4,7 +4,7 @@ import "./Display.css"
 const Display = (props) => {
     const { picture, name, institute, gender, age, salary } = props.teacher
     return (
-        <div className='teacher-details'>
+        <div className='teacher-details col-lg-4 col-sm-6 col-12'>
             <img className='teacher-img' src={picture} alt="" />
             <h3>Name: {name}</h3>
             <p>Institute: {institute}</p>

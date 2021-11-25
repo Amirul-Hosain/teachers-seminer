@@ -22,3 +22,26 @@
     width: 300px;
     font-size: 22px;
 }
+
+/* 
+@media only screen and (max-width: 582px) {
+    .teacher-container{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (max-width: 582px) {
+    .teachers{
+        margin: auto;
+        width: 90%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (max-width: 582px) {
+    .total-teacher{
+        margin-top: 50px;
+        width: 90%;
+    }
+} */

@@ -33,7 +33,7 @@ const Teacher = () => {
 
     return (
         <div className='teacher-container'>
-            <div className='teachers'>
+            <div className='row'>
                 {
                     teachers.map(teacher => <Display
                         key={teacher._id}
